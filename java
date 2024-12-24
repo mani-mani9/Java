@@ -3,4 +3,5 @@ public static void main(String[]args)
 {
 System.out.println("Hello world");
 }
-the output is : Helloworld
+the output is : HELLO WORLD
+
